@@ -11,8 +11,28 @@ def display_dictionary(language):
         'Igbo': {},
         #
         'Spanish': {},
-        #
-        'Tiv': {}
+        #AKASE IWASEN MICHAEL
+        'Tiv':{
+    'Ter':'Father',
+    'Aondo':'God',
+    'Msuugh':'I greet',
+    'Oryiman':'Saviour',
+    'Angbyian':'Sibling',
+    'Kwase':'Girl',
+    'Nomso':'Boy',
+    'Ngo':'Mother',
+    'Dem':'Leave me',
+    'Se':'Us',
+    'Hemba':'More than',
+    'Doo':'Good',
+    'Vihi':'Spoil',
+    'Kanyi':'What',
+    'Jijingi':'Spirit',
+    'Shima':'Heart',
+    'Uma':'Life',
+    'Humba':'Better',
+    'Or':'Person',
+    'Hembe':'Break'
     }
     # Format dictionary output for readability
     selected_dict = dictionaries.get(language, 'Not available')
