@@ -7,8 +7,27 @@ def display_dictionary(language):
         'German.dic': {'Hund': 'Dog', 'Katze': 'Cat', 'Haus': 'House', 'Baum': 'Tree', 'Auto': 'Car', 'Buch': 'Book', 'Tisch': 'Table', 'Stuhl': 'Chair', 'Tür': 'Door', 'Fenster': 'Window', 'Blume': 'Flower', 'Himmel': 'Sky', 'Wasser': 'Water', 'Feuer': 'Fire', 'Erde': 'Earth', 'Mond': 'Moon', 'Sonne': 'Sun', 'Stern': 'Star', 'Berg': 'Mountain', 'Fluss': 'River'},
        #
         'French.py': {},
-        #
-        'Igbo': {},
+        #Daniel Chima Okeke
+        'Igbo': {"Nne": "Mother",
+        "Nna": "Father",
+        "Ụlọ": "House",
+        "Akwụkwọ": "Book",
+        "Ezi": "Good",
+        "Nri": "Food",
+        "Mmiri": "Water",
+        "Anụ": "Meat",
+        "Ọkụ": "Fire",
+        "Ụwa": "World",
+        "Ọgwụ": "Medicine",
+        "Ekwensu": "Devil",
+        "Chineke": "God",
+        "Ihu": "Face",
+        "Akwụkwọ ozi": "Letter",
+        "Ndị mmadụ": "People",
+        "Ọhịa": "Forest",
+        "Ugo": "Eagle",
+        "Nche": "Guard",
+        "Eziokwu": "Truth"},
         #MARTINS GOODLUCK DANIEL
         'Spanish': {
             'ola' : 'Hello',
