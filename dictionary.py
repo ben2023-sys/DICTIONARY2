@@ -9,8 +9,29 @@ def display_dictionary(language):
         'French.py': {},
         #
         'Igbo': {},
-        #
-        'Spanish': {},
+        #MARTINS GOODLUCK DANIEL
+        'Spanish': {
+            'ola' : 'Hello',
+            'Adiós' : 'Goodbye',
+            'Gracias' : 'Thank you',
+            'Agua' : 'Water',
+            'Comida' : 'Food',
+            'Casa' : 'House',
+            'Coche' : 'Car',
+            'Árbol' : 'Tree',
+            'Perro' : 'Dog',
+            'Gato' : 'Cat',
+            'Sol' : 'Sun',
+            'Padre' : 'Father',
+            'Madre' : 'Mother',
+            'Hermano' : 'Brother',
+            'Hermana' : 'Sister',
+            'Amigo' : 'Friend',
+            'Amor' : 'Love',
+            'Feliz' : 'Happy',
+            'Hermosa' :'Beautiful',
+            'Padre' : 'Father'
+            },
         #AKASE IWASEN MICHAEL
         'Tiv':{
     'Ter':'Father',
