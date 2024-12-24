@@ -5,7 +5,7 @@ def display_dictionary(language):
     dictionaries = {
         #IRO BENEDICT
         'German.dic': {'Hund': 'Dog', 'Katze': 'Cat', 'Haus': 'House', 'Baum': 'Tree', 'Auto': 'Car', 'Buch': 'Book', 'Tisch': 'Table', 'Stuhl': 'Chair', 'Tür': 'Door', 'Fenster': 'Window', 'Blume': 'Flower', 'Himmel': 'Sky', 'Wasser': 'Water', 'Feuer': 'Fire', 'Erde': 'Earth', 'Mond': 'Moon', 'Sonne': 'Sun', 'Stern': 'Star', 'Berg': 'Mountain', 'Fluss': 'River'},
-       #
+       #Sunday Michael Ekene
         'French.dic': { 'bonjour': 'hello',
     'merci': 'thank you',
     'oui': 'yes',
