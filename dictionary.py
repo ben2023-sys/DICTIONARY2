@@ -6,9 +6,9 @@ def display_dictionary(language):
         #IRO BENEDICT
         'German.dic': {'Hund': 'Dog', 'Katze': 'Cat', 'Haus': 'House', 'Baum': 'Tree', 'Auto': 'Car', 'Buch': 'Book', 'Tisch': 'Table', 'Stuhl': 'Chair', 'Tür': 'Door', 'Fenster': 'Window', 'Blume': 'Flower', 'Himmel': 'Sky', 'Wasser': 'Water', 'Feuer': 'Fire', 'Erde': 'Earth', 'Mond': 'Moon', 'Sonne': 'Sun', 'Stern': 'Star', 'Berg': 'Mountain', 'Fluss': 'River'},
        #
-        'French.py': {},
+        'French.dic': {},
         #Daniel Chima Okeke
-        'Igbo': {"Nne": "Mother",
+        'Igbo.dic': {"Nne": "Mother",
         "Nna": "Father",
         "Ụlọ": "House",
         "Akwụkwọ": "Book",
@@ -29,7 +29,7 @@ def display_dictionary(language):
         "Nche": "Guard",
         "Eziokwu": "Truth"},
         #MARTINS GOODLUCK DANIEL
-        'Spanish': {
+        'Spanish.dic': {
             'ola' : 'Hello',
             'Adiós' : 'Goodbye',
             'Gracias' : 'Thank you',
@@ -52,7 +52,7 @@ def display_dictionary(language):
             'Padre' : 'Father'
             },
         #AKASE IWASEN MICHAEL
-        'Tiv':{
+        'Tiv.dic':{
     'Ter':'Father',
     'Aondo':'God',
     'Msuugh':'I greet',
@@ -102,10 +102,10 @@ result_text.config(state=tk.DISABLED)
 # Button data with titles
 buttons = [
     "German.dic",
-    "French.py",
-    "Igbo",
-    "Spanish",
-    "Tiv"
+    "French.dic",
+    "Igbo.dic",
+    "Spanish.dic",
+    "Tiv.dic"
 ]
 
 # Create buttons
