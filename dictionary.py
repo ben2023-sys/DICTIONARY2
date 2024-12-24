@@ -72,7 +72,7 @@ def display_dictionary(language):
     'Uma':'Life',
     'Humba':'Better',
     'Or':'Person',
-    'Hembe':'Break'
+    'Hembe':'Break'}
     }
     # Format dictionary output for readability
     selected_dict = dictionaries.get(language, 'Not available')
