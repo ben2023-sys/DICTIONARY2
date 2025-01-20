@@ -71,7 +71,8 @@ tiv_dictionary = {
 
 }
 
-french_dictionary = {"bonjour": "hello",
+french_dictionary = {
+"bonjour": "hello",
 "merci": "thank you",
 "au revoir": "goodbye",
 "pluie": "rain",
