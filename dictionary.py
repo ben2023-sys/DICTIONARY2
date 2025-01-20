@@ -120,26 +120,26 @@ german_dictionary = {
 }
 
 igbo_dictionary = {
-"Nne": "Mother",
-        "Nna": "Father",
-        "Ụlọ": "House",
-        "Akwụkwọ": "Book",
-        "Ezi": "Good",
-        "Nri": "Food",
-        "Mmiri": "Water",
-        "Anụ": "Meat",
-        "Ọkụ": "Fire",
-        "Ụwa": "World",
-        "Ọgwụ": "Medicine",
-        "Ekwensu": "Devil",
-        "Chineke": "God",
-        "Ihu": "Face",
-        "Akwụkwọ ozi": "Letter",
-        "Ndị mmadụ": "People",
-        "Ọhịa": "Forest",
-        "Ugo": "Eagle",
-        "Nche": "Guard",
-        "Eziokwu": "Truth"
+"ugbo mmiri": "boat",
+    "ulo": "house",
+    "nri": "food",
+    "mmiri": "water",
+    "akwukwo": "book",
+    "anu": "meat",
+    "ahia": "market",
+    "ulo akwukwo": "school",
+    "nwoke": "man",
+    "nwanyị": "woman",
+    "nwa": "child",
+    "ututu": "morning",
+    "ehihie": "afternoon",
+    "abalị": "night",
+    "oku": "fire",
+    "ohịa": "forest",
+    "osimiri": "river",
+    "ulo ọgwụ": "hospital",
+    "ulo nzukọ": "church",
+    "ulo mposi":"toilet"
 }
 
 # Buttons to open dictionary windows
