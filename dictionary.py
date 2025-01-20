@@ -71,10 +71,28 @@ tiv_dictionary = {
 
 }
 
-french_dictionary = {
-
+french_dictionary = {"bonjour": "hello",
+"merci": "thank you",
+"au revoir": "goodbye",
+"pluie": "rain",
+"soleil": "sun",
+"fleur": "flower",
+"chat": "cat",
+"chien": "dog",
+"maison": "house",
+"voiture": "car",
+"école": "school",
+"hôpital": "hospital",
+"restaurant": "restaurant",
+"musée": "museum",
+"parc": "park",
+"lac": "lake",
+"montagne": "mountain"
+"froid": "cold",
+"jour": "day",
+"nuit": "night",
+"semaine": "week"
 }
-
 german_dictionary = {
     "apfel": "apple", "baum": "tree", "haus": "house", "katze": "cat", "hund": "dog",
     "auto": "car", "stuhl": "chair", "tisch": "table", "buch": "book", "blume": "flower",
