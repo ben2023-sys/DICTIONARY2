@@ -68,8 +68,27 @@ spanish_dictionary = {
 }
 
 tiv_dictionary = {
-
-}
+    'Ter':'Father',
+    'Aondo':'God',
+    'Msuugh':'I greet',
+    'Oryiman':'Saviour',
+    'Angbyian':'Sibling',
+    'Kwase':'Girl',
+    'Nomso':'Boy',
+    'Ngo':'Mother',
+    'Dem':'Leave me',
+    'Se':'Us',
+    'Hemba':'More than',
+    'Doo':'Good',
+    'Vihi':'Spoil',
+    'Kanyi':'What',
+    'Jijingi':'Spirit',
+    'Shima':'Heart',
+    'Uma':'Life',
+    'Humba':'Better',
+    'Or':'Person',
+    'Hembe':'Break'
+    }
 
 french_dictionary = {"pomme": "apple",
     "arbre": "tree",
