@@ -103,7 +103,26 @@ german_dictionary = {
 }
 
 igbo_dictionary = {
-
+"Nne": "Mother",
+        "Nna": "Father",
+        "Ụlọ": "House",
+        "Akwụkwọ": "Book",
+        "Ezi": "Good",
+        "Nri": "Food",
+        "Mmiri": "Water",
+        "Anụ": "Meat",
+        "Ọkụ": "Fire",
+        "Ụwa": "World",
+        "Ọgwụ": "Medicine",
+        "Ekwensu": "Devil",
+        "Chineke": "God",
+        "Ihu": "Face",
+        "Akwụkwọ ozi": "Letter",
+        "Ndị mmadụ": "People",
+        "Ọhịa": "Forest",
+        "Ugo": "Eagle",
+        "Nche": "Guard",
+        "Eziokwu": "Truth"
 }
 
 # Buttons to open dictionary windows
