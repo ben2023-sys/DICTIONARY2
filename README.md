@@ -1,1 +1,1 @@
-Front-End Code for a Five-Language Dictionary
+Front-End Code for a Five-Language Dictionary.
